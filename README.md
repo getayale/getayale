@@ -9,6 +9,8 @@ I build practical web applications using modern frontend and backend technologie
 📚 Training Management System
 
 🛠️ Technologies
+
+
 C# • .NET • ASP.NET Core • EF Core
 Angular • TypeScript • JavaScript • React
 PHP • PostgreSQL • MySQL • MongoDB
