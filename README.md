@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Getayalew Teshale
 
-<!--
-**getayale/getayale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | .NET • Angular • React
 
-Here are some ideas to get you started:
+I build practical web applications using modern frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building
+🎓 School Management System
+📚 Training Management System
+
+🛠️ Technologies
+C# • .NET • ASP.NET Core • EF Core
+Angular • TypeScript • JavaScript • React
+PHP • PostgreSQL • MySQL • MongoDB
+Git • GitHub
+
+🌱 Currently Learning
+Advanced .NET & Angular
+
+📫 Let's Connect
+💼 [LinkedIn](https://www.linkedin.com/in/getayalew-teshale-11307338a/)
+
+Build • Learn • Improve 🚀
