@@ -1,4 +1,4 @@
-#👋 Hi, I'm Getayalew Teshale
+👋 Hi, I'm Getayalew Teshale
 
 ### 💻 Full-Stack Web Developer | 📱 Flutter Developer
 
